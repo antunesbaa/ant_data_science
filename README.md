@@ -24,7 +24,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Análise do Titanic:**
+* **Análise dos dados do AirBnb - Santiago/Chile:**(https://colab.research.google.com/github/antunesbaa/ant_data_science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb#scrollTo=2JfrBfjCbyVb)
 
 
 ---
