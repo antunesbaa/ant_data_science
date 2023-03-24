@@ -18,7 +18,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Links:**
 * [Blog]()
 * [LinkedIn](https://www.linkedin.com/in/bruno-de-araujo-antunes-6084b5208/)
-* [Medium](https://medium.com/@antunesbaa)
+* [Medium](https://medium.com/@antunesbaa/)
 
 
 ## Projetos:
