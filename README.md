@@ -9,11 +9,9 @@ Meu portifólio de projetos em Data Science
 # Bruno Antunes
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Piloto da FAB há 21 anos, Investigador de Acidentes Aeronáuticos e Cientista de Dados Aprendiz. Aqui, você encontrará projetos de Data Science em diferentes áreas de interesse, incluindo análise exploratória de dados, modelagem preditiva e visualização de dados. Os projetos são voltados para a resolução de problemas reais e aplicação de técnicas de Data Science para obter insights úteis em diferentes contextos. 
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
-
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+O objetivo deste repositório é compartilhar conhecimentos e explorar maneiras de aplicar técnicas de Data Science em diversos domínios, contribuindo para o avanço da área e aprimoramento das habilidades de Data Science do autor.
 
 **Links:**
 * [Blog]()
