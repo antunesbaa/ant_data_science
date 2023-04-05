@@ -23,6 +23,6 @@ O objetivo deste repositório é compartilhar conhecimentos e explorar maneiras 
 Veja os tutoriais publicados do Sigmoidal:
 
 * **[Análise dos dados do AirBnb - Santiago/Chile](https://github.com/antunesbaa/ant_data_science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)**
-
+* **[Panorama da COVID-19 no Brasil](https://github.com/antunesbaa/ant_data_science/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb)**
 
 ---
